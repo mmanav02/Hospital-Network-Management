@@ -9,6 +9,6 @@ This is the primary server room setup.
 This is the logical setup of the entire network.
 ![Logical Map](image-3.png)
 The IP subnetting was carried out as follows.
-![Subnetting](image-4.png)
+![Subnetting](image-4.jpg)
 
 This repository acts a submission for major innovative assignment for the course - Computer Networks (DSA - 2CS502) while pursuing B.Tech CSE at Nirma University.
