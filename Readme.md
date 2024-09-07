@@ -11,4 +11,4 @@ This is the logical setup of the entire network.
 The IP subnetting was carried out as follows.
 ![Subnetting](image-4.jpg)
 
-This repository acts a submission for major innovative assignment for the course - Computer Networks (DSA - 2CS502) while pursuing B.Tech CSE at Nirma University.
+This repository acts a submission for major innovative assignment for the course - Computer Networks (CN - 2CS502) while pursuing B.Tech CSE at Nirma University.
